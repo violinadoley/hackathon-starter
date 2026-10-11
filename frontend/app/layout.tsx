@@ -17,9 +17,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "PROJECT_NAME | AI Hackathon Starter",
+  title: "AI Hackathon Starter",
   description:
-    "Starter template for Google-native AI hackathon projects. TODO: update metadata.",
+    "Google-native AI hackathon starter — Next.js, FastAPI, Gemini, Firebase.",
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {

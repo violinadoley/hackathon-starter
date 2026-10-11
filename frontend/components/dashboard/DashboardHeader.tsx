@@ -23,7 +23,7 @@ export function DashboardHeader() {
       <div className="mx-auto flex h-14 max-w-6xl items-center justify-between px-4 sm:px-6">
         <div className="flex items-center gap-6">
           <Link href="/" className="font-semibold tracking-tight">
-            PROJECT_NAME
+            AI Hackathon Starter
           </Link>
           <nav className="hidden sm:flex items-center gap-4 text-sm text-muted-foreground">
             <Link href="/dashboard" className="text-foreground font-medium">

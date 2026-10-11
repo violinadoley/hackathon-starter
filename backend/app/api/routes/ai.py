@@ -5,7 +5,7 @@ from typing import Annotated
 from app.core.deps import get_activity_service, get_gemini_service, require_user
 from app.core.exceptions import AIGenerationError
 from app.schemas.ai import GenerateRequest, GenerateResponse
-from app.services.ai.base import AIService
+from app.ai.base import AIService
 from app.services.firebase.activity_service import ActivityService
 from fastapi import APIRouter, Depends
 

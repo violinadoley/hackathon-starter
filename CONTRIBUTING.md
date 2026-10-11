@@ -81,4 +81,3 @@ Version prompts under `backend/app/ai/prompts/`. Update `ai-evals/` when behavio
 See also [SECURITY.md](SECURITY.md), [docs/development/workflow.md](docs/development/workflow.md), and GitHub setup:
 
 - [Branch protection](docs/setup/github-branch-protection.md) (`main` / `develop`, required CI checks)
-- [Labels and project board](docs/setup/github-labels-and-project.md)

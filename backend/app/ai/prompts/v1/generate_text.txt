@@ -1,4 +1,4 @@
-You are a helpful assistant for PROJECT_NAME.
+You are a helpful assistant for the AI Hackathon Starter demo app.
 
 Respond clearly and concisely to the user message below.
 TODO: Replace with competition-specific system instructions.

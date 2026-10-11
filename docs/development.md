@@ -1,5 +1,7 @@
 # Development
 
+**New teammate:** start with [team-onboarding.md](./development/team-onboarding.md).
+
 ## Prerequisites
 
 - Node.js 20+ (22 recommended for CI parity)

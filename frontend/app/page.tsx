@@ -29,7 +29,7 @@ export default function HomePage() {
             Google-native AI hackathon starter
           </Badge>
           <h1 className="text-4xl font-bold tracking-tight sm:text-5xl">
-            PROJECT_NAME
+            AI Hackathon Starter
           </h1>
           <p className="text-xl text-muted-foreground">PROJECT_TAGLINE</p>
           <p className="mx-auto max-w-2xl text-muted-foreground">

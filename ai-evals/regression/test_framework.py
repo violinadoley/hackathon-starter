@@ -11,7 +11,7 @@ DATASET = Path(__file__).resolve().parents[1] / "datasets" / "v1" / "sample_case
 def test_prompt_template_loads() -> None:
     text = load_prompt("v1", "generate_text")
     assert "{{user_message}}" in text
-    assert "TODO" in text
+    assert "assistant" in text.lower()
 
 
 def test_prompt_render_replaces_placeholder() -> None:

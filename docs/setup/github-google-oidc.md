@@ -18,7 +18,7 @@ Replace placeholders:
 | `GCP_PROJECT_ID` | `my-hackathon-123` | Deploy + GitHub variable |
 | `REGION` | `asia-south1` | Artifact Registry + Cloud Run |
 | `GITHUB_ORG` | `violinadoley` | WIF attribute condition |
-| `GITHUB_REPO` | `project` | WIF attribute condition |
+| `GITHUB_REPO` | `hackathon-starter` | WIF attribute condition |
 
 ## 1. Enable APIs
 
